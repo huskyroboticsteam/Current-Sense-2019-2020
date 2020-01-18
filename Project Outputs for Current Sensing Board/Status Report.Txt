@@ -1,0 +1,28 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Current Sensing Board.PrjPCB]
+   Generated File[Current Sensing PCB_Copper_Signal_Top.gbr]
+   Generated File[Current Sensing PCB_Copper_Signal_Bot.gbr]
+   Generated File[Current Sensing PCB_Pads_Bot.gbr]
+   Generated File[Current Sensing PCB_Pads_Top.gbr]
+   Generated File[Current Sensing PCB_Legend_Bot.gbr]
+   Generated File[Current Sensing PCB_Soldermask_Bot.gbr]
+   Generated File[Current Sensing PCB_Paste_Bot.gbr]
+   Generated File[Current Sensing PCB_Legend_Top.gbr]
+   Generated File[Current Sensing PCB_Paste_Top.gbr]
+   Generated File[Current Sensing PCB_Soldermask_Top.gbr]
+   Generated File[Current Sensing PCB_Keep-out.gbr]
+   Generated File[Current Sensing PCB_Profile.gbr]
+   Generated File[Current Sensing PCB_NPTH_Drill.gbr]
+   Generated File[Current Sensing PCB_PTH_Drill.gbr]
+   Generated File[Current Sensing PCB_Drawing_1.gbr]
+   Generated File[Current Sensing PCB_Drillmap_1.gbr]
+   Generated File[Current Sensing PCB.RUL]
+   Generated File[Current Sensing PCB.EXTREP]
+   Generated File[Current Sensing PCB.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 8:26:51 AM On 5/10/2019

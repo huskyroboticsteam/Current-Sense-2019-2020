@@ -1,0 +1,6 @@
+Added Component: Designator=TP1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component Q1 NTR5103NT1G
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component Q2 NTR5103NT1G
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component TP1 Test_Point
+Added Room: Name=Current Sensing Chematic

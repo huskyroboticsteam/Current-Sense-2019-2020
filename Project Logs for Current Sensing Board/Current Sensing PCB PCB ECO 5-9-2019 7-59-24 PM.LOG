@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetIC2_7 Pin=T2-1
+Change Component Comment : Designator=Q1 Old Comment=Comment New Comment=NTR5103NT1G
+Change component parameters: Designator = "Q1"; Footprint = "SOT95P237X101-3N"; UniqueID = "\MXLDEDWB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/NTR5103NT1G.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.01mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NTR5103NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-NTR5103NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-NTR5103NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1841331"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1841331"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=Q1-3
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component Q1 NTR5103NT1G
+Added Room: Name=Current Sensing Chematic

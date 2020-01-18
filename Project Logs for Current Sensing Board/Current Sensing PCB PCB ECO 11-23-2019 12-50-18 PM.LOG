@@ -1,0 +1,38 @@
+Change component parameters: Designator = "T1"; Footprint = "SOT95P282X145-5N"; UniqueID = "\VMLLKGEU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "AP2127K-4.75TRG1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "AP2127K-4.75TRG1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AP2127K-4.75TRG1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Price-Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT95P282X145-5N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Price-Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "AP2127K-4.75TRG1"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOT127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.allegromicro.com/~/media/Files/Datasheets/ACS723-Datasheet.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ACS723LLCTR-40AU-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-4
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=+5 Pin=IC1-8
+Added Member To Class: ClassName=Current Sense Schematic Member=Component IC1 ACS723LLCTR-40AU-T
+Added Room: Name=CAN Schematic
+Added Room: Name=Current Sense Schematic
+Added Room: Name=Power Schematic
+Added Room: Name=STM Schematic

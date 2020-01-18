@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=NetC8_1 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=IC2-5
+Removed Pin From Net: NetName=GND Pin=IC2-6
+Removed Pin From Net: NetName=+5 Pin=IC2-8
+Removed Pin From Net: NetName=NetLED2_1 Pin=Q1-3
+Removed Pin From Net: NetName=NetLED1_1 Pin=Q2-3
+Removed Pin From Net: NetName=NetLED2_2 Pin=R10-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=S3-1
+Removed Pin From Net: NetName=GND Pin=S3-2
+Removed Pin From Net: NetName=NetQ1_2 Pin=S3-3
+Removed Pin From Net: NetName=NetQ1_2 Pin=S3-4
+Removed Member From Class: ClassName=STM Schematic Member=C2
+Removed Member From Class: ClassName=STM Schematic Member=C3
+Removed Member From Class: ClassName=STM Schematic Member=C6
+Removed Member From Class: ClassName=STM Schematic Member=C7
+Removed Member From Class: ClassName=STM Schematic Member=C9
+Removed Member From Class: ClassName=STM Schematic Member=IC2
+Removed Member From Class: ClassName=STM Schematic Member=J3
+Removed Member From Class: ClassName=STM Schematic Member=J4
+Removed Member From Class: ClassName=STM Schematic Member=J5
+Removed Member From Class: ClassName=STM Schematic Member=R4
+Removed Member From Class: ClassName=STM Schematic Member=R13
+Removed Member From Class: ClassName=STM Schematic Member=R14
+Removed Member From Class: ClassName=STM Schematic Member=R16
+Removed Member From Class: ClassName=STM Schematic Member=R17
+Removed Member From Class: ClassName=STM Schematic Member=R18
+Removed Member From Class: ClassName=STM Schematic Member=R19
+Removed Member From Class: ClassName=STM Schematic Member=S3
+Removed Member From Class: ClassName=STM Schematic Member=U2
+Removed Member From Class: ClassName=STM Schematic Member=Y1
+Change Component Comment : Designator=C5 Old Comment=CAP 1uF New Comment=CAP 390pF
+Change Component Comment : Designator=C8 Old Comment=CAP 390pF New Comment=CAP 1uF
+Added Component: Designator=TP1(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP6(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP7(Test Point Through-hole)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC8_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetLED1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetLED2_1 Pin=Q2-3
+Added Pin To Net: NetName=NetLED1_2 Pin=R10-1
+Added Pin To Net: NetName=NetLED2_2 Pin=R15-2
+Added Pin To Net: NetName=CAN_TX Pin=TP1-1
+Added Pin To Net: NetName=CAN_RX Pin=TP2-1
+Added Pin To Net: NetName=NetJ1_4 Pin=TP3-1
+Added Pin To Net: NetName=NetJ1_3 Pin=TP4-1
+Added Pin To Net: NetName=+5V0 Pin=TP5-1
+Added Pin To Net: NetName=+3V3 Pin=TP6-1
+Added Pin To Net: NetName=NetR13_1 Pin=TP7-1
+Added Pin To Net: NetName=NetJ3_10 Pin=U2-4
+Added Pin To Net: NetName=NetJ3_2 Pin=U2-23
+Added Pin To Net: NetName=NetJ3_4 Pin=U2-24
+Added Pin To Net: NetName=NetJ3_8 Pin=U2-25
+Added Pin To Net: NetName=NetJ3_6 Pin=U2-26
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=current_sense
+Added Pin To Net: NetName=3V3_IND Pin=R12-1
+Added Pin To Net: NetName=3V3_IND Pin=U2-6
+Added Net: Name=3V3_IND
+Added Pin To Net: NetName=5V0_IND Pin=R9-1
+Added Pin To Net: NetName=5V0_IND Pin=U2-7
+Added Net: Name=5V0_IND
+Added Pin To Net: NetName=CAN_ADDR_0 Pin=R20-1
+Added Pin To Net: NetName=CAN_ADDR_0 Pin=SW1-8
+Added Pin To Net: NetName=CAN_ADDR_0 Pin=U2-10
+Added Net: Name=CAN_ADDR_0
+Added Pin To Net: NetName=CAN_ADDR_1 Pin=R7-1
+Added Pin To Net: NetName=CAN_ADDR_1 Pin=SW1-7
+Added Pin To Net: NetName=CAN_ADDR_1 Pin=U2-11
+Added Net: Name=CAN_ADDR_1
+Added Pin To Net: NetName=CAN_ADDR_2 Pin=R6-1
+Added Pin To Net: NetName=CAN_ADDR_2 Pin=SW1-6
+Added Pin To Net: NetName=CAN_ADDR_2 Pin=U2-12
+Added Net: Name=CAN_ADDR_2
+Added Pin To Net: NetName=CAN_ADDR_3 Pin=R5-1
+Added Pin To Net: NetName=CAN_ADDR_3 Pin=SW1-5
+Added Pin To Net: NetName=CAN_ADDR_3 Pin=U2-13
+Added Net: Name=CAN_ADDR_3
+Added Pin To Net: NetName=NetIC1_1 Pin=J5-2
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_3 Pin=J4-2
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetIC1_7 Pin=R14-1
+Added Net: Name=NetIC1_7
+Change Class Name : Old Net Name=STM Schematic New Net Name=Power Schematic
+Added Class: Name=Current Sense Schematic
+Added Class: Name=STM Schematic
+Added Member To Class: ClassName=CAN Schematic Member=Component TP1 Test Point
+Added Member To Class: ClassName=CAN Schematic Member=Component TP2 Test Point
+Added Member To Class: ClassName=CAN Schematic Member=Component TP3 Test Point
+Added Member To Class: ClassName=CAN Schematic Member=Component TP4 Test Point
+Added Member To Class: ClassName=Power Schematic Member=Component TP5 Test Point
+Added Member To Class: ClassName=Power Schematic Member=Component TP6 Test Point
+Added Room: Name=CAN Schematic
+Added Room: Name=Current Sense Schematic
+Added Room: Name=Power Schematic
+Added Room: Name=STM Schematic

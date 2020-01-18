@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetLED2_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q1-3
+Removed Pin From Net: NetName=NetLED1_1 Pin=Q2-1
+Removed Pin From Net: NetName=NetQ2_2 Pin=Q2-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q2-3
+Change Component Footprint: Designator=Q1 Old Footprint=E3 New Footprint=SOT95P237X101-3N
+Change Component Footprint: Designator=Q2 Old Footprint=E3 New Footprint=SOT95P237X101-3N
+Change Component Comment : Designator=Q1 Old Comment=MOSFET-N New Comment=NTR5103NT1G
+Change Component Comment : Designator=Q2 Old Comment=MOSFET-N New Comment=NTR5103NT1G
+Change component parameters: Designator = "Q1"; Footprint = "SOT95P237X101-3N"; UniqueID = "\MXLDEDWB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/NTR5103NT1G.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.01mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NTR5103NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-NTR5103NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-NTR5103NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1841331"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1841331"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2"; Footprint = "SOT95P237X101-3N"; UniqueID = "\UFVLBIYH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/NTR5103NT1G.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.01mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NTR5103NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-NTR5103NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-NTR5103NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1841331"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1841331"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-2
+Added Pin To Net: NetName=NetLED1_1 Pin=Q2-3
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetQ2_1
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component J1 0430450427
+Added Room: Name=Current Sensing Chematic

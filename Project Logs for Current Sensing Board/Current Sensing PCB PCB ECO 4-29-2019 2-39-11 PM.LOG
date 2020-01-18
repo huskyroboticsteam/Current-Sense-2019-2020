@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetDS1_2 Pin=Q1-1
+Removed Pin From Net: NetName=NetDS2_2 Pin=Q2-1
+Removed Pin From Net: NetName=NetDS1_1 Pin=R10-1
+Removed Pin From Net: NetName=NetDS2_1 Pin=R15-2
+Added Component: Designator=LED1(LEDC2012X80N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/led/datasheet/150080BS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8154228P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/8154228P"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LEDC2012X80N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/led/datasheet/150080BS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8154228P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/8154228P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDS1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetDS1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetDS2_1 Pin=LED?-1
+Added Pin To Net: NetName=NetDS2_2 Pin=LED?-2
+Added Pin To Net: NetName=NetDS2_1 Pin=Q1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=Q2-1
+Added Pin To Net: NetName=NetDS2_2 Pin=R10-1
+Added Pin To Net: NetName=NetDS1_2 Pin=R15-2
+Change Net Name : Old Net Name=NetDS1_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetDS1_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetDS2_1 New Net Name=NetLED?_1
+Change Net Name : Old Net Name=NetDS2_2 New Net Name=NetLED?_2
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component LED1 150080BS75000
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component LED? 150080BS75000
+Added Room: Name=Current Sensing Chematic

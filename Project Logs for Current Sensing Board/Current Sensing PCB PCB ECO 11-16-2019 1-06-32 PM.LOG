@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=+5V0 Pin=D1-2
+Removed Pin From Net: NetName=NetJ3_10 Pin=U2-4
+Removed Pin From Net: NetName=NetR20_1 Pin=U2-10
+Removed Pin From Net: NetName=NetR7_1 Pin=U2-11
+Removed Pin From Net: NetName=NetR6_1 Pin=U2-12
+Removed Pin From Net: NetName=NetR5_1 Pin=U2-13
+Removed Member From Class: ClassName=Current Sensing Chematic Member=C1
+Removed Member From Class: ClassName=Current Sensing Chematic Member=D1
+Removed Member From Class: ClassName=Current Sensing Chematic Member=F1
+Removed Member From Class: ClassName=Current Sensing Chematic Member=J1
+Removed Member From Class: ClassName=Current Sensing Chematic Member=J2
+Removed Member From Class: ClassName=Current Sensing Chematic Member=P1
+Removed Member From Class: ClassName=Current Sensing Chematic Member=R2
+Removed Member From Class: ClassName=Current Sensing Chematic Member=R5
+Removed Member From Class: ClassName=Current Sensing Chematic Member=R6
+Removed Member From Class: ClassName=Current Sensing Chematic Member=R7
+Removed Member From Class: ClassName=Current Sensing Chematic Member=R20
+Removed Member From Class: ClassName=Current Sensing Chematic Member=SW1
+Removed Member From Class: ClassName=Current Sensing Chematic Member=U1
+Change Component Footprint: Designator=D1 Old Footprint=DIOD-SOD123-2_V New Footprint=ONSC-SMB-2-403A-03_H_V
+Change Component Comment : Designator=D1 Old Comment=BZT52C12-7-F New Comment=1SMB5917BT3G
+Change component parameters: Designator = "D1"; Footprint = "ONSC-SMB-2-403A-03_H_V"; UniqueID = "\ECSTNLJV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1SMB5913BT3-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1SMB5913BT3-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Small Molded Package, J-Bend Lead, Body 4.33 x 3.625 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SMB-2-403A-03_H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. H, 05/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "1SMB5917BT3G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VZ Typ (V)"; Value = "4.7"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC0805(2012)75_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "0.75 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.1pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.7pF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC0805(2012)75_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "0.75 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.1pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.7pF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC0805(2012)75_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "0.75 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.1pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.7pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3.3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+3.3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3.3 Pin=C9-2
+Added Pin To Net: NetName=+5V0 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Change Net Name : Old Net Name=NetU1_1 New Net Name=CAN_TX
+Change Net Name : Old Net Name=NetU1_4 New Net Name=CAN_RX
+Added Pin To Net: NetName=NetS1_1 Pin=U2-4
+Added Net: Name=NetS1_1
+Change Class Name : Old Net Name=Current Sensing Chematic New Net Name=STM Schematic
+Added Class: Name=CAN Schematic
+Added Member To Class: ClassName=STM Schematic Member=Component C2 0.1uF
+Added Member To Class: ClassName=STM Schematic Member=Component C7 0.1uF
+Added Member To Class: ClassName=STM Schematic Member=Component C9 0.1uF
+Added Room: Name=CAN Schematic
+Added Room: Name=STM Schematic

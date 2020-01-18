@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R8 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R8
+Added Room: Name=CAN Schematic
+Added Room: Name=Current Sense Schematic
+Added Room: Name=Power Schematic
+Added Room: Name=STM Schematic

@@ -1,0 +1,215 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=+3.3 Pin=C2-2
+Removed Pin From Net: NetName=+5 Pin=C3-2
+Removed Pin From Net: NetName=+3.3 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=+3.3 Pin=C7-2
+Removed Pin From Net: NetName=+3.3 Pin=C8-2
+Removed Pin From Net: NetName=+3.3 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=+3.3 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+5 Pin=F1-1
+Removed Pin From Net: NetName=+3.3 Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=IC1-12
+Removed Pin From Net: NetName=+3.3 Pin=IC1-13
+Removed Pin From Net: NetName=GND Pin=IC1-18
+Removed Pin From Net: NetName=+3.3 Pin=IC1-19
+Removed Pin From Net: NetName=+3.3 Pin=IC1-31
+Removed Pin From Net: NetName=+3.3 Pin=IC1-32
+Removed Pin From Net: NetName=GND Pin=IC1-47
+Removed Pin From Net: NetName=+3.3 Pin=IC1-48
+Removed Pin From Net: NetName=GND Pin=IC1-63
+Removed Pin From Net: NetName=+3.3 Pin=IC1-64
+Removed Pin From Net: NetName=+5 Pin=IC2-8
+Removed Pin From Net: NetName=NetJ1_4 Pin=P1-1
+Removed Pin From Net: NetName=+3.3 Pin=R1-1
+Removed Pin From Net: NetName=NetJ1_3 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=+3.3 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=S2-2
+Removed Pin From Net: NetName=+3.3 Pin=T1-5
+Removed Pin From Net: NetName=NetIC2_7 Pin=T2-1
+Removed Member From Class: ClassName=Current Sensing Chematic Member=C2
+Removed Member From Class: ClassName=Current Sensing Chematic Member=C7
+Removed Member From Class: ClassName=Current Sensing Chematic Member=C9
+Removed Member From Class: ClassName=Current Sensing Chematic Member=C10
+Removed Member From Class: ClassName=Current Sensing Chematic Member=IC1
+Removed Member From Class: ClassName=Current Sensing Chematic Member=S2
+Change Component Comment : Designator=R4 Old Comment=100 New Comment=10k
+Change Component Comment : Designator=R5 Old Comment=100 New Comment=10k
+Change Component Comment : Designator=R6 Old Comment=100 New Comment=10k
+Change Component Comment : Designator=R7 Old Comment=100 New Comment=10k
+Change Component Comment : Designator=S1 Old Comment=219-4MSTR New Comment=1825910-7
+Change Component Comment : Designator=C6 Old Comment=CAP 0.1uF New Comment=0.1uF
+Change Component Comment : Designator=C4 Old Comment=CAP 1uF New Comment=1uF
+Change Component Comment : Designator=J3 Old Comment=Comment New Comment=SAMTEC-FTSH-105-01-X-D
+Change Component Comment : Designator=Y1 Old Comment=SG-636PCW_50.0000MC3__ROHS New Comment=SG-636PCW_50.0000MC3
+Change component parameters: Designator = "S1"; Footprint = "Switch 6mm 24V (NO)"; UniqueID = "\RVYQUTOR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Configuration_Pole-Throw"; Value = "Single Pole - Single Throw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_Current_Rating"; Value = "50 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "450-1804-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/1825910-7/450-1804-ND/1731414?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1825910-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1825910-7/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1825910-7.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DWG1(Gearhead)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R20(RESC2013X70X40LL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF1503V"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(CKCP-TDA04H0SB1R_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case\Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ck-components.com/media/1328/tda.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "100 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "100 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.21 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Contact Resistance"; Value = "100 mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "25 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "24 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Surface Mount Device, Body 6.21 x 6.2 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TDA04H0SB1R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "24 V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(STM-LQFP32_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00097745.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "32-Pin Low Profile Quad Flat Package, 7 x 7 mm Body, 0.8 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "LQFP32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=F1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=P1-1
+Added Pin To Net: NetName=NetJ1_4 Pin=R2-2
+Added Pin To Net: NetName=+3.3 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=+5 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=NetQ1_2 Pin=S3-4
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-32
+Change Net Name : Old Net Name=+5 New Net Name=+5V0
+Added Pin To Net: NetName=+3V3 Pin=C5-2
+Added Pin To Net: NetName=+3V3 Pin=C8-2
+Added Pin To Net: NetName=+3V3 Pin=R1-1
+Added Pin To Net: NetName=+3V3 Pin=SW1-1
+Added Pin To Net: NetName=+3V3 Pin=SW1-2
+Added Pin To Net: NetName=+3V3 Pin=SW1-3
+Added Pin To Net: NetName=+3V3 Pin=SW1-4
+Added Pin To Net: NetName=+3V3 Pin=T1-5
+Added Pin To Net: NetName=+3V3 Pin=U2-1
+Added Pin To Net: NetName=+3V3 Pin=U2-5
+Added Pin To Net: NetName=+3V3 Pin=U2-17
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=+5 Pin=IC2-8
+Added Net: Name=+5
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=J1-2
+Added Pin To Net: NetName=NetF1_1 Pin=J2-2
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R16-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=R17-2
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetJ3_6 Pin=R19-2
+Added Net: Name=NetJ3_6
+Added Pin To Net: NetName=NetJ3_8 Pin=J3-8
+Added Pin To Net: NetName=NetJ3_8 Pin=R18-2
+Added Net: Name=NetJ3_8
+Added Pin To Net: NetName=NetJ3_10 Pin=J3-10
+Added Pin To Net: NetName=NetJ3_10 Pin=R4-2
+Added Pin To Net: NetName=NetJ3_10 Pin=S1-1
+Added Pin To Net: NetName=NetJ3_10 Pin=S1-2
+Added Pin To Net: NetName=NetJ3_10 Pin=U2-4
+Added Net: Name=NetJ3_10
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=SW1-5
+Added Pin To Net: NetName=NetR5_1 Pin=U2-13
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=SW1-6
+Added Pin To Net: NetName=NetR6_1 Pin=U2-12
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=SW1-7
+Added Pin To Net: NetName=NetR7_1 Pin=U2-11
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U2-6
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U2-7
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R14-2
+Added Pin To Net: NetName=NetR13_1 Pin=U2-14
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=SW1-8
+Added Pin To Net: NetName=NetR20_1 Pin=U2-10
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U2-22
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=U2-21
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Pin To Net: NetName=NetU2_2 Pin=Y1-3
+Added Net: Name=NetU2_2
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component DWG1 
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component Q1 NTR5103NT1G
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component Q2 NTR5103NT1G
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component R20 10k
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component SW1 TDA04H0SB1
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component U1 MCP2562-E/SN
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component U2 STM32F334K6T6
+Added Room: Name=Current Sensing Chematic

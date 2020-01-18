@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetF1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED?_2 New Net Name=NetLED2_2
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component J1 0430450427
+Added Room: Name=Current Sensing Chematic

@@ -1,0 +1,22 @@
+Change Component Comment : Designator=U1 Old Comment=Comment New Comment=MCP2562-E/SN
+Change component parameters: Designator = "U1"; Footprint = "SOIC127P600X175-8N"; UniqueID = "\UFYLMUCM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MCP2562-E/SN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SO-8 Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2562-E/SN/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_62 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-3
+Added Pin To Net: NetName=NetIC1_61 Pin=U1-4
+Added Pin To Net: NetName=+5 Pin=U1-5
+Added Pin To Net: NetName=NetJ1_4 Pin=U1-6
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component Q1 NTR5103NT1G
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component Q2 NTR5103NT1G
+Added Member To Class: ClassName=Current Sensing Chematic Member=Component U1 MCP2562-E/SN
+Added Room: Name=Current Sensing Chematic

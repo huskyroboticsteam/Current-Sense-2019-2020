@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=+3V3 Pin=C2-2
+Added Pin To Net: NetName=+5V0 Pin=C3-2
+Added Pin To Net: NetName=+3V3 Pin=C6-2
+Added Pin To Net: NetName=+3V3 Pin=C7-2
+Added Pin To Net: NetName=+3V3 Pin=C9-2
+Added Pin To Net: NetName=+5V0 Pin=IC1-8
+Added Pin To Net: NetName=+3V3 Pin=J3-1
+Added Pin To Net: NetName=+3V3 Pin=R4-1
+Added Pin To Net: NetName=+3V3 Pin=R15-1
+Added Pin To Net: NetName=+3V3 Pin=R16-1
+Added Pin To Net: NetName=+3V3 Pin=R18-1
+Added Pin To Net: NetName=+3V3 Pin=R19-1
+Added Pin To Net: NetName=+3V3 Pin=Y1-1
+Added Pin To Net: NetName=+3V3 Pin=Y1-4
+Added Member To Class: ClassName=STM Schematic Member=Component J3 SAMTEC-FTSH-105-01-X-D
+Added Member To Class: ClassName=Current Sense Schematic Member=Component J4 1510482204
+Added Member To Class: ClassName=Power Schematic Member=Component S2 1825910-7
+Added Room: Name=CAN Schematic
+Added Room: Name=Current Sense Schematic
+Added Room: Name=Power Schematic
+Added Room: Name=STM Schematic

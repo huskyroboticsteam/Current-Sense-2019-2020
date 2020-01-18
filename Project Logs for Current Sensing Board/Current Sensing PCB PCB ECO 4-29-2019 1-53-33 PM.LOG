@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-1
+Removed Pin From Net: NetName=+5 Pin=F1-2
+Change Component Footprint: Designator=F1 Old Footprint=PIN-W2/E2.8 New Footprint=LFUS-1206L020YR_V
+Change Component Footprint: Designator=S1 Old Footprint=SO8_N New Footprint=SOP254P991X385-8N
+Change Component Comment : Designator=F1 Old Comment=Fuse Thermal New Comment=1206L020YR
+Change Component Comment : Designator=S1 Old Comment=SW DIP-4 New Comment=219-4MSTR
+Change component parameters: Designator = "S1"; Footprint = "SOP254P991X385-8N"; UniqueID = "\EKNSCHPU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "219-4MSTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/219-4mstr/cts"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ctscorp.com/wp-content/uploads/219.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "3.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "219-4MSTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1774368"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1774368"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1"; Footprint = "LFUS-1206L020YR_V"; UniqueID = "\VWOBYBWB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://download.siliconexpert.com/pdfs/2015/4/10/21/0/43/983/ltf_/manual/3609284120511713636092822459449496littelfuse_ptc_1206l_datasheet.pdf.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "02/2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hold Current [Ih]"; Value = "0.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.littelfuse.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-40to+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.65 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206L020YR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Trip Current"; Value = "0.42A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage-Max"; Value = "24V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-2
+Change Net Name : Old Net Name=NetF1_1 New Net Name=NetF1_2
